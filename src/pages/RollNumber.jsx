@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React, { useState } from "react";
 import roll from "../assets/login-interface.png";
-import result from "../assets/result-interfacepng.png";
+import result from "../assets/result-interface.png";
 import Link from "next/link";
 
 const RollNumber = () => {
